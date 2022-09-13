@@ -4,6 +4,7 @@
 - 🌱 Atualmente estudando Frameworks React, Angular
 - 👯 Contato: vini46.job@outlook.com
 - 👯 Contato: 61994450481
+- 👯 Linkedin: https://www.linkedin.com/in/vini-nogueira-devit/
 - 😄 Pronomes: ele/dele
 
 <div align="center">
